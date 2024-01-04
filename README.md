@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [See It live]()
+- [Solution URL](https://github.com/AtefZaky/Huddle-Landing-Page)
+- [Live Site URL](https://huddle-landing-page-nine-rouge.vercel.app/)
 
 ## My process
 
